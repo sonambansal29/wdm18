@@ -2,9 +2,9 @@
 <html >
 <head>
 
-<title>WDM 2018</title>
+
 <meta charset="utf-8">
-<title>Untitled Document</title>
+<title>WDM 2018</title>
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
