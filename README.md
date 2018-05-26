@@ -32,7 +32,7 @@ function MM_swapImage() { //v3.0
 </head>
 
 <body onLoad="MM_preloadImages('file:///C|/Users/anmol/Desktop/C2.PNG')">
-<a href="https://sonambansal29.github.io/wdm18/home.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','file:///C|/Users/anmol/Desktop/C2.PNG',1)"><img src="file:///C|/Users/anmol/Desktop/Capture.PNG" alt="" width="475" height="66" id="Image1"></a>
+<a href="https://sonambansal29.github.io/wdm18/home.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','C2.PNG',1)"><img src="Capture.PNG" alt="" width="475" height="66" id="Image1"></a>
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UBydep1QzoU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </body>
